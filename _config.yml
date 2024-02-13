@@ -26,6 +26,8 @@ plugins:
 exclude:
   - docs/
 
+goatcounter_code: [018da354-7588-7335-8ec1-f11b6a77a069]
+
 collections:
   pages:
     output: true
