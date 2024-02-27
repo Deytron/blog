@@ -9,11 +9,11 @@ github_username: Deytron
 linkedin_username: romain-ranaivoson
 
 # External API
-giscus_repo:
-giscus_repoId:
-giscus_category:
-giscus_categoryId:
-goatcounter_code:
+giscus_repo: Deytron/blog
+giscus_repoId: R_kgDOLR3XiQ
+giscus_category: General
+giscus_categoryId: DIC_kwDOLR3Xic4Cdj5B
+goatcounter_code: 018da354-7588-7335-8ec1-f11b6a77a069
 google_analytics:
 
 # Build settings
