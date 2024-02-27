@@ -1,6 +1,10 @@
 ---
 title: "Getting the Meta Quest 2 to run on Linux"
 date: "2024-02-13"
+tags:
+  - guide
+  - linux
+  - vr
 ---
 
 Hi everyone,
