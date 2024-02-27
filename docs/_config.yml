@@ -1,5 +1,5 @@
-title: Example.com
-description: "Introduction for you blog"
+title: Row-it
+description: "My blog where I post things"
 logo_img: "/assets/img/favicon.webp"
 profile_img: "/assets/img/profile.webp"
 
@@ -43,15 +43,14 @@ collections:
     permalink: /:path.html
 
 defaults:
-  -
-    scope:
+  - scope:
       path: ""
       type: "pages"
     values:
       layout: "page"
       date: "1900-01-01"
 
-# Markdown newline activator 
+# Markdown newline activator
 kramdown:
   input: GFM
   hard_wrap: true
