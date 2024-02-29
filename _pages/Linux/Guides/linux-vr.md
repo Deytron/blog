@@ -5,9 +5,8 @@ tags:
   - guide
   - linux
   - vr
+thumbnail: "/assets/img/thumbnail/linux-vr.webp"
 ---
-
-Hi everyone,
 
 With the release of the Meta Quest 3, I just bought a second-hand Meta Quest 2 for 200€. Pretty cool device if you ask me. My question though was this : will my PCVR games work with Linux ? And the answer is: yes! But setup was painful. But working in the end.
 Since there are not a lot of guide out there, and I still haven't started my own blog for this kind of thing, I'm writing a guide here and will save it for future use. The guide should still be relevant for months to come.
