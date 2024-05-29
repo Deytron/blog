@@ -23,6 +23,29 @@ Good question. Let me know if you have the answer to that. My guess is that Ext4
 
 _Reminder that this is my personal opinion here_
 
+## Cross-platform
+
+### SquirrelDisk
+
+<img src="https://www.squirreldisk.com/images/squirrel.png" style="width:200px;"/>
+
+Okay so this one is pretty new. It's cross-platform, meaning you can use it on all of your OSes, Windows Mac and Linux alike. It's still a bit rough on the edge but it has almost everything you could need.
+
+Pros:
+
+- Pretty fast
+- Really good UI, circle view and list view
+- Sort by anything
+- Supports disks and folder analysis
+- 100% free
+- Open-source
+- Corss-platform
+
+Cons:
+
+- A bit buggy on Windows
+- No portable version on Windows, only `.msi` package
+
 ## For Windows
 
 ### Wiztree
