@@ -1,6 +1,6 @@
 ---
 title: "WinDirStat is (kinda) dead, here are better tools"
-date: "2024-02-13"
+date: "2024-05-29"
 tags:
   - linux
   - windows
@@ -51,7 +51,7 @@ The only two cons here is that because of the way it works, it's Windows only, a
 
 ![fiellight logo](https://apps.kde.org/app-icons/org.kde.filelight.svg)
 
-From the KDE team, and thus deeply integrated into KDE, is FileLight. Basically the same thing as WizTree for Windows, but open-source. If you're on KDe, there is a high chance that you already have this installed. Otherwise you can use your favorite package manager to easily install it. 
+From the KDE team, and thus deeply integrated into KDE, is FileLight. Basically the same thing as WizTree for Windows, but open-source. If you're on KDe, there is a high chance that you already have this installed. Otherwise you can use your favorite package manager to easily install it.
 
 Key points here:
 
@@ -115,7 +115,7 @@ Cons:
 
 ![Treeize logo](https://www.jam-software.com/sites/default/files/2017-10/TreeSize-Free.png)
 
-TreeSize has been around for longer than WizTree, and has a few more features than it, but those features are not in the free version. A  One-time buy will unlock you all the features.
+TreeSize has been around for longer than WizTree, and has a few more features than it, but those features are not in the free version. A One-time buy will unlock you all the features.
 
 Pros:
 
