@@ -70,7 +70,7 @@ The only two cons here is that because of the way it works, it's Windows only, a
 
 ### For KDE: Filelight
 
-![fiellight logo](https://apps.kde.org/app-icons/org.kde.filelight.svg)
+<img src="https://apps.kde.org/app-icons/org.kde.filelight.svg" style="width:200px;"/>
 
 From the KDE team, and thus deeply integrated into KDE, is FileLight. Basically the same thing as WizTree for Windows, but open-source. If you're on KDe, there is a high chance that you already have this installed. Otherwise you can use your favorite package manager to easily install it.
 
@@ -86,7 +86,7 @@ Key points here:
 
 ### For Gnome: Baobab
 
-![baobab logo](https://gitlab.gnome.org/GNOME/baobab/-/avatar)
+<img src="https://gitlab.gnome.org/GNOME/baobab/-/avatar" style="width:200px;"/>
 
 For those of you using Gnome, it's basically the same thing as Filelight but for the Gnome UI. Pros are exactly the same, and if you're using Ubuntu, it should already be installed.
 
@@ -132,7 +132,7 @@ Cons:
 
 ### TreeSize
 
-![Treeize logo](https://www.jam-software.com/sites/default/files/2017-10/TreeSize-Free.png)
+<img src="https://images-eds-ssl.xboxlive.com/image?url=4rt9.lXDC4H_93laV1_eHHFT949fUipzkiFOBH3fAiZZUCdYojwUyX2aTonS1aIwMrx6NUIsHfUHSLzjGJFxxjGP4QeDYBE3DdDCqCfj640Qvfgxfi6yk2oVQk0wdePxUpTQ4bp4aBapo6j2ksY8AQ1dsneAAg_g.wIhNl_5lPM-&format=source" style="width:200px;"/>
 
 TreeSize has been around for longer than WizTree, and has a few more features than it, but those features are not in the free version. A One-time buy will unlock you all the features.
 
@@ -153,7 +153,7 @@ Cons:
 
 ### SpaceSniffer
 
-![Spacesniffer logo](https://www.zwodnik.com/media/cache/93/cf/93cf3c6a555fa07dad9b7ed0e8ea5aec.png)
+<img src="https://www.zwodnik.com/media/cache/93/cf/93cf3c6a555fa07dad9b7ed0e8ea5aec.png" style="width:100px;"/>
 
 This one is preferred by old people, really. I keep it in the honorable mentions as it still functions to this day and it's free, but with the existence of Wiztree, there is absolutely no point in using this one.
 
@@ -173,7 +173,7 @@ Cons:
 
 ### Daisy Disk
 
-![daisydisk logo](https://c.clc2l.com/c/thumbnail280/t/d/a/daisydisk-NaNVNU.jpg)
+<img src="https://static-00.iconduck.com/assets.00/apps-daisydisk-icon-2048x2048-e6tinsir.png" style="width:200px;"/>
 
 This one is actually very cool. If you don't want to bother with your terminal, for the price of a McDonald's meal (sigh), you can get Daisy Disk.
 
@@ -194,7 +194,7 @@ Cons:
 
 ### QDirStat
 
-![qdiurstat logo](https://github.com/shundhammer/qdirstat/raw/master/src/icons/qdirstat.svg)
+<img src="https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/qdirstat-logo.png" style="width:100px;"/>
 
 This one is only if you don't want to install your DE's disk analyzer. QDirStat is based on KDirStat and removes all the previsous dependencies, as well as update it to Qt5. The UI is 99% the same as WizTree, so if you are too used to WizTree and don't want to change,
 
