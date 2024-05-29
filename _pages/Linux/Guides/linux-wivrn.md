@@ -11,27 +11,16 @@ thumbnail: "/assets/img/thumbnail/wivrn.svg"
 If you're running Linux, you pretty much already know that VR is pretty hard to get running if the games you want to play are PCVR games.
 Apart from ALVR, you don't have much of a choice, as SteamVR is broken and we're still waiting for Valve to work on it.
 
-Fortunately we can thank the WiVRN team for their effort, as their solution allows us to not use SteamVR at all! WiVRN uses OpenComposite and Monado to get your games running wirelessly.
+Fortunately we can thank the WiVRn team for their effort, as their solution allows us to not use SteamVR at all! WiVRn uses OpenComposite and Monado to get your games running wirelessly.
 
 ---
 
-# Before purchasing anything
+# Pre-requisites
 
-You should consider a few things before purchasing your VR headset, not exclusively related to Linux:
+WiVRn currently supports all Android-based headsets, as the installation package is a `.apk`. The most popular ones are the Meta Quest, the Pico headsets and the HTC Vive series.
 
-- Choose your headset depending on your budget, watch unbiased reviews on YouTube
-  - Also check out the second-hand market
-- A Windows dual-boot is more straightforward, if you want to play PCVR games right away
-- You should have enough space in your room
-- Meta WILL collect your data, keep that in mind when searching for your hardware
-- Usual warnings about epilepsy, motion sickness and all, anyway make sure you're healthy enough
 
-# Hardware/software check
-
-- Nvidia tends to fare badly on Linux when it comes to VR, so you can try your luck but an AMD GPU is preferred
-- Wayland/X11 should not matter, but you never know, switch to Wayland huh
-- I'm currently on CachyOS (Arch), but an Ubuntu/Fedora distro is supported, though I won't be able to help much with that
-- Make sure to set up your headset properly before starting
+## Installation if you want the latest features
 
 ## Setup
 
