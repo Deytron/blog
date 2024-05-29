@@ -27,7 +27,7 @@ _Reminder that this is my personal opinion here_
 
 ### Wiztree
 
-<img src="https://antibodysoftware-17031.kxcdn.com/images/wiztree200x.png" width="200">
+<img src="https://antibodysoftware-17031.kxcdn.com/images/wiztree200x.png" style="width:200px;"/>
 
 A well known software, WizTree has been around for a long time now and as they say on their website, it's **46x faster than WinDirStat!**. Yeah, they're not exaggerating nor lying but that's just because as WinDirStat doesn't read the MFT table of your disk, it's gonna be very slow anyway.
 
