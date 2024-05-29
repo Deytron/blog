@@ -196,7 +196,7 @@ Cons:
 
 <img src="https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/qdirstat-logo.png" style="width:100px;"/>
 
-This one is only if you don't want to install your DE's disk analyzer. QDirStat is based on KDirStat and removes all the previsous dependencies, as well as update it to Qt5. The UI is 99% the same as WizTree, so if you are too used to WizTree and don't want to change,
+This one is only if you don't want to install your DE's disk analyzer. QDirStat is based on KDirStat and removes all the previous dependencies, as well as update it to Qt5. The UI is 99% the same as WizTree, so if you are too used to WizTree and don't want to change,
 
 Key points:
 
