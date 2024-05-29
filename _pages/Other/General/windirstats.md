@@ -27,7 +27,7 @@ _Reminder that this is my personal opinion here_
 
 ### Wiztree
 
-![Wiztree logo](https://antibodysoftware-17031.kxcdn.com/images/wiztree200x.png)
+<img src="https://antibodysoftware-17031.kxcdn.com/images/wiztree200x.png" width="200">
 
 A well known software, WizTree has been around for a long time now and as they say on their website, it's **46x faster than WinDirStat!**. Yeah, they're not exaggerating nor lying but that's just because as WinDirStat doesn't read the MFT table of your disk, it's gonna be very slow anyway.
 
@@ -45,9 +45,7 @@ The only two cons here is that because of the way it works, it's Windows only, a
 
 ## For Linux
 
-## For KDE
-
-### Filelight
+### For KDE: Filelight
 
 ![fiellight logo](https://apps.kde.org/app-icons/org.kde.filelight.svg)
 
@@ -63,9 +61,7 @@ Key points here:
 - 100% free
 - Open-source
 
-## For Gnome
-
-### Baobab
+### For Gnome: Baobab
 
 ![baobab logo](https://gitlab.gnome.org/GNOME/baobab/-/avatar)
 
