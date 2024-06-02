@@ -5,14 +5,14 @@ tags:
   - linux
   - windows
   - steam
-thumbnail: "/assets/img/thumbnail/familysharethumb.png"
+thumbnail: "/assets/img/thumbnail/familysharethumb.jpg"
 ---
 
 Steam's Family Sharing is Valve's way to let your family members enjoy the games you own when you're not playing them. You can allow **up to five accounts** to use your library. The current restriction is that your other family members cannot play your games if you are playing _any_ of your games in your library. Future updates will make it so the other members will be able to play any game in your library as long as you're not playing the same one.
 
 There is a way that is both Windows and Linux compatible to bypass theses restrictions. This is the topic of this post.
 
-> Will this still work with the announce of the overhaul of the Family Share system?
+> Will this still work with the announce of the overhaul of the Family Sharing system?
 
 Technically speaking, this method should still work as core files should be unchanged. But there's still a slight chance that it could break, we never know. I will update this post accordingly when the feature drops on Steam stable branch.
 
@@ -40,9 +40,8 @@ Now that everything is setup, close Steam and follow the steps, they are differe
 
 > If you're on Steam Deck, first head to desktop mode
 
-1. Close Steam before doing anything
-2. Open your favorite terminal or Konsole.
-3. Copy and paste the following commands:
+1. Open your favorite terminal or Konsole.
+2. Copy and paste the following commands:
 
 ```bash
 sudo cp "/home/$USER/.steam/bin32/steamclient.so" "/home/$USER/.steam/bin32/steamclient\_backup.so" \
@@ -57,7 +56,7 @@ sudo chmod 555 ./steamclient.so \
 
 sudo cp ./steamclient.so "/home/$USER/.steam/bin32/steamclient.so"
 ```
-If no error is thrown, then you can simply open Steam and if on any of the shared games, you see **Play** instead of **Borrow**, you should be good to go!
+3. If no error is thrown, then you can simply open Steam and if on any of the shared games, you see **Play** instead of **Borrow**, you should be good to go!
 
 # Know issues
 
