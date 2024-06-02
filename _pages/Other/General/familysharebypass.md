@@ -66,7 +66,7 @@ sudo cp ./steamclient.so "/home/$USER/.steam/bin32/steamclient.so"
 
 # Can I get banned for this?
 
-This obviously goes against Steam's TOS, but there hasn't been any report of anyone getting ban from Steam by using this bypass to play. Also, think about it this way: you're still buying from Steam anyway and using their services, so there isn't much point to block you.
+This obviously goes against Steam's TOS, but there hasn't been any report of anyone getting banned from Steam by using this bypass to play. Also, think about it this way: you're still buying from Steam anyway and using their services, so there isn't much point to block you.
 
 # Credits
 
